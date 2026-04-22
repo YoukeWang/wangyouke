@@ -1,0 +1,12 @@
+[project]
+name = "45"
+version = "0.1.0"
+description = "A lightweight Streamlit dashboard for overseas master's admission analysis"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "altair>=5.5.0",
+    "pandas>=2.3.0",
+    "python-docx>=1.2.0",
+    "streamlit>=1.45.0",
+]
