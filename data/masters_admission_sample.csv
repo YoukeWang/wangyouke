@@ -1,1 +1,23 @@
-
+university,country,program_name,field,qs_rank,tuition_usd,duration_months,min_gpa_100,min_ielts,min_toefl,gre_policy,min_gre,major_requirement,quant_requirement,programming_requirement,internship_importance,research_importance,notes
+Imperial College London,英国,MSc Business Analytics,Business Analytics,6,45500,12,88,7.0,100,Optional,325,Strong,4,4,4,2,热门商科数据项目
+University College London,英国,MSc Data Science,Data Science,9,42000,12,86,7.0,100,Optional,323,Strong,5,4,3,3,偏好数理和编程基础
+University of Edinburgh,英国,MSc Data Science,Data Science,27,37000,12,82,6.5,92,No,0,Medium,4,4,2,3,科研和项目经历有帮助
+University of Manchester,英国,MSc Business Analytics,Business Analytics,34,33500,12,80,6.5,90,Optional,320,Medium,3,3,3,1,适合商科转数据方向
+University of Warwick,英国,MSc Data Analytics,Data Analytics,69,34800,12,81,6.5,92,Optional,320,Medium,4,4,3,2,重视数据分析基础
+Columbia University,美国,MS Data Science,Data Science,23,62000,18,90,7.5,105,Required,325,Strong,5,5,4,4,竞争强且重视硬背景
+University of Southern California,美国,MS Applied Data Science,Data Science,70,58000,18,84,7.0,100,Optional,320,Medium,4,4,3,2,项目制导向明显
+Northeastern University,美国,MS Information Systems,Information Systems,101,47500,16,78,6.5,90,No,0,Open,3,3,3,1,接受多元专业背景
+New York University,美国,MS Management of Technology,Information Systems,43,60000,16,85,7.0,100,Optional,320,Medium,3,3,4,1,偏好商业和技术结合
+National University of Singapore,新加坡,MSc Business Analytics,Business Analytics,8,43000,12,88,7.0,100,Optional,324,Strong,4,4,3,2,申请竞争较强
+Nanyang Technological University,新加坡,MSc Analytics,Data Analytics,15,39000,12,86,6.5,100,Optional,322,Medium,4,4,2,2,强调分析和建模能力
+Singapore Management University,新加坡,MITB Analytics,Information Systems,545,36000,12,80,6.5,90,Optional,315,Open,3,3,4,1,职业导向较强
+The University of Hong Kong,中国香港,MSc Statistics,Statistics,17,36000,12,82,6.5,93,Optional,320,Strong,5,3,1,4,统计方向重视数理基础
+The Chinese University of Hong Kong,中国香港,MSc Information and Technology Management,Information Systems,36,32000,12,80,6.5,90,No,0,Open,3,3,3,1,适合信息管理方向
+City University of Hong Kong,中国香港,MSc Business Analytics,Business Analytics,70,30000,12,78,6.5,79,No,0,Medium,3,3,3,1,预算相对友好
+University of Melbourne,澳大利亚,Master of Data Science,Data Science,13,41000,18,82,6.5,79,No,0,Medium,4,4,2,2,学制较长且选择灵活
+The University of Sydney,澳大利亚,Master of Business Analytics,Business Analytics,18,39800,18,80,6.5,85,No,0,Open,3,3,3,1,适合商科背景申请
+Monash University,澳大利亚,Master of Data Science,Data Science,37,35000,24,78,6.5,79,No,0,Open,3,3,2,1,接受转专业但需基础课程
+University of Toronto,加拿大,MSc Applied Computing,Applied Computing,21,47000,16,89,7.0,100,Required,325,Strong,5,5,3,4,科研和编程能力要求高
+University of British Columbia,加拿大,Master of Data Science,Data Science,38,44500,10,86,6.5,100,Optional,322,Strong,4,5,2,3,重视项目和技术基础
+McGill University,加拿大,Master of Management Analytics,Business Analytics,29,43000,12,84,7.0,100,Optional,320,Medium,4,3,3,2,适合商科量化背景
+Leiden University,荷兰,MSc Statistics and Data Science,Statistics,119,24800,12,78,6.5,90,No,0,Medium,4,3,1,3,欧洲项目费用相对低
